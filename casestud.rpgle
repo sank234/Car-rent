@@ -7,7 +7,7 @@
      ********************************************
      C                   DOW       *IN03=*OFF
      C                   EXFMT     MENU
-     C                   IF        OPTION=1
+     C                   IF        OPTION=7
      C                   CALL      'REGISTER'
      C                   ENDIF
      C                   IF        OPTION=2
