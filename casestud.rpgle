@@ -8,11 +8,11 @@
      C                   DOW       *IN03=*OFF
      C                   EXFMT     MENU
      
-     C                   IF        OPTION=8
+     C                   IF        OPTION=9
      
      C                   CALL      'REGISTER'
      C                   ENDIF
-     C                   IF        OPTION=2
+     C                   IF        OPTION=1
      C                   CALL      'MAINCODE'
      C                   ENDIF
      C                   IF        OPTION=3
@@ -33,4 +33,5 @@ C    C                   ENDDO
      C     CUSA          BEGSR
      C     'CUSTOMER'    DSPLY
      C                   ENDSR
+     this is my first rpg code 
      C************************************************
