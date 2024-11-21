@@ -8,12 +8,12 @@
      C                   DOW       *IN03=*OFF
      C                   EXFMT     MENU
      
-     C                   IF        OPTION=9
+     C                   IF        OPTION=10
      
      C                   CALL      'REGISTER'
      C                   ENDIF
      C                   IF        OPTION=1
-     C                   CALL      'MAINCODE'
+     C                   CALL      'subcode'
      C                   ENDIF
      C                   IF        OPTION=3
      C                   CALL      'RENA'
